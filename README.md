@@ -1,2 +1,2 @@
 # ACA-FSWD-2021
-My first repositoru.
+My first repository.
